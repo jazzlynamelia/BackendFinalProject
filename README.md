@@ -1,4 +1,4 @@
-# 🛒 Laravel Product & Invoice Management System
+# 🛒 Inventory Management Web App 
 
 This is a backend-focused web application built with Laravel that features two user roles: **Admin** and **User**.
 
