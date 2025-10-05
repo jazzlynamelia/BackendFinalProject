@@ -1,4 +1,4 @@
-# 🛒 Inventory & Invoice Management System (Laravel 9)
+# 🛒 E-Commerce Inventory & Invoice Management System (Laravel 9)
 
 A role-based back-end web application developed as part of the **LnT Final Project**, designed to manage product inventory, handle customer orders, and generate automated invoices.  
 The system supports two main roles — **Admin** and **User** — with distinct permissions and secure access control through Laravel middleware.
