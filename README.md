@@ -88,7 +88,7 @@ Structured relational schema including:
 1. **Clone Repository**
    ```bash
    git clone https://github.com/jazzlynamelia/inventory-management-laravel
-   cd BackendFinalProject
+   cd inventory-management-laravel
    ```
 2. **Install Dependencies**
    ```bash
